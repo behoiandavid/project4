@@ -172,7 +172,6 @@ body {
     justify-content: center;
     flex-wrap: nowrap;
     flex-direction: row;
-
 }
 
 .header-nav {
@@ -194,14 +193,12 @@ body {
     gap: 100px;
     padding: 40px;
     width: 800px;
-
 }
 
 .header-nav-discription :hover {
     text-transform: uppercase;
     color: #A3A3A0;
     text-shadow: 10px 10px 10px #000000;
-
 }
 
 .header-right-block button {
@@ -214,7 +211,6 @@ body {
     box-shadow: 9px 2px 10px #ffffff;
     border: solid 1px #E0E0E0;
     margin-top: 25px;
-
 }
 
 .header-right-block :hover {
@@ -226,11 +222,10 @@ body {
 .main-container {
     margin-top: 40px;
 }
-
 .main-float1 {
     border: solid 2px #FF9999;
     margin-bottom: 100px;
-    height: 54px;
+    height: 64px;
     max-width: 700px;
 }
 
@@ -239,6 +234,7 @@ body {
     width: 200px;
     height: 50px;
     float: left;
+    margin: 5px;
 }
 
 .main-float1-block2 {
@@ -246,7 +242,7 @@ body {
     width: 200px;
     height: 50px;
     float: right;
-
+    margin: 5px;
 }
 
 .main-float2 {
@@ -255,7 +251,6 @@ body {
     height: 65px;
     max-width: 1200px;
 }
-
 
 .main-float2-block1 {
     background-color: #ffffff;
@@ -367,7 +362,6 @@ body {
     margin: 5px;
     float: left;
     margin-left: 400px;
-
 }
 
 .main-float5-block2 * {
